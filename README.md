@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🔭 I’m currently working on [revamping my whole company](Private repositories)
+- 🔭 I’m currently working on revamping my whole company
 
 - ❤️ I love **Blazor**
 
